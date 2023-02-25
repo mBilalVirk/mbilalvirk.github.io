@@ -15,6 +15,7 @@
 }
 html {
     scroll-behavior: smooth;
+    color-scheme: dark light;
 }
 body {
     background-color: hsl(231deg 100% 12%);
