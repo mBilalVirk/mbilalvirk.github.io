@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46139a73.css",
+    "main.js": "/static/js/main.73b67824.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/bg.jpg": "/static/media/bg.3671695119ec8232cdd3.jpg",
+    "static/media/PSX_20190530_194951.jpg": "/static/media/PSX_20190530_194951.1e7707444a410716da24.jpg",
+    "static/media/Portfolio.png": "/static/media/Portfolio.780ddd53dee0e0e87a92.png",
+    "static/media/Web ui.png": "/static/media/Web ui.fbcb202d647791bbe444.png",
+    "static/media/moble ui.png": "/static/media/moble ui.4d30b20e3654d3bb113a.png",
+    "static/media/logo.png": "/static/media/logo.cee41816ca4715da22d5.png",
+    "index.html": "/index.html",
+    "main.46139a73.css.map": "/static/css/main.46139a73.css.map",
+    "main.73b67824.js.map": "/static/js/main.73b67824.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46139a73.css",
+    "static/js/main.73b67824.js"
+  ]
+}
